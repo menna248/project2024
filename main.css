@@ -1,0 +1,96 @@
+
+.text2{
+    text-transform:capitalize;
+    text-decoration:none;
+    color:rgb(242, 132, 130);
+    padding-left:20;
+    
+}
+
+.items{ border-width:2;
+    border-style:solid;
+    border-color:pink;
+    border-radius:5px;
+    background-color:pink;
+    color:white;
+    font-style:italic ;
+
+}
+.link{
+    color:white;
+    font-family:monospace;
+    text-decoration:none ;
+    }
+
+.header{
+    text-transform:uppercase;
+    text-align:center;
+    background-color:pink;
+}
+
+.mat{
+  
+    margin-top: 30px;
+    border: 0px solid #ccc;
+    float: center;
+   
+    
+}
+
+a.mat img {
+  width:380px;
+  height:200px ;
+  margin-top:50px;
+ 
+}
+
+.desc {
+   
+    padding-bottom:5px;
+    text-align:right;
+    text-transform:capitalize;
+    font-size:20px;
+    font-style:bold;
+  
+  
+  
+}
+a.mat{
+    
+    text-decoration:none;
+    color: black;
+    padding:0px;
+    margin:0px;
+    background-color: #f2f2f2;
+}
+input[type=text], select {
+  width: 40%;
+  padding: 8px 8px;
+  margin: 8px 8;
+  display: inline-block;
+  border: 0px solid #ccc;
+  box-sizing: border-box;
+  
+}
+
+input[type=submit] {
+  width: 30%;
+  background-color: blue;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+
+}
+
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+
+div {
+  border-radius: 5px;
+  background-color: #f2f2f2;
+  padding: 20px;
+}
+
